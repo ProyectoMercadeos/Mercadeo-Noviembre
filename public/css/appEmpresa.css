@@ -1,0 +1,61 @@
+
+.form-inline
+{
+  margin-top: -20px;
+}
+
+form {
+
+width:100%;
+max-width: 1000px;
+margin: 0 auto;
+margin-bottom: 35px;
+margin-top: -38px;
+padding: 10px;
+border-top: 5px solid  #FFA500;
+border-bottom: 5px solid  #FFA500;
+color:#000000 ;
+background-color:#f5f5f5; 
+text-shadow: 0px 0px 0px  #238276  ;
+box-shadow: -6px 6px 6px 0px rgba(50, 50, 50, 0.65);
+border-radius: 18px;
+float: center;
+text-align: left;
+font-family: Verdana, Geneva, sans-serif;
+}
+#empresa
+{
+
+
+width:100%;
+max-width: 600px;
+margin: 0 auto;
+margin-bottom: 35px;
+padding: 10px;
+
+}
+.form-group
+{
+	margin-left: 120px;
+}
+.form-group1
+{
+	margin-left: 265px;
+}
+.form-group2
+{
+	margin-left: 120px;
+}
+
+footer
+{
+width: 98%;
+text-align: center;
+margin-top: -3.5%;
+font-family: Verdana, Geneva, sans-serif;
+font-size: 20px;
+background-color: #FFA500;
+border-radius: 12px;
+bottom: 0px;
+
+}
